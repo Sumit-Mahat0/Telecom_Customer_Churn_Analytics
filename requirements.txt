@@ -1,6 +1,6 @@
 streamlit==1.18.1
 numpy
-scikit-learn
+scikit-learn==0.24.2
 joblib
-tensorflow==2.7.0  # Updated version to be compatible with typing-extensions>=3.10.0.0
+tensorflow==2.7.0
 pandas
