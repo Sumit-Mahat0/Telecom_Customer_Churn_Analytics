@@ -20,7 +20,7 @@ def preprocess_input(data):
     return df
 
 # Streamlit UI
-st.title("Customer Churn Prediction")
+st.title("Telecom Customer Churn Prediction")
 
 # Collect user inputs
 gender = st.radio("Gender", [0, 1])
