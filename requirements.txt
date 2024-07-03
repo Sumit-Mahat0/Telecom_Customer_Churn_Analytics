@@ -1,4 +1,4 @@
-import Streamlit
-import pandas
-import numpy
-import joblib
+Streamlit
+pandas
+numpy
+joblib
