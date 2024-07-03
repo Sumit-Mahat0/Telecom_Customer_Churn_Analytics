@@ -1,4 +1,4 @@
 scikit-learn
 pandas
 streamlit
-import joblib
+pip install joblib
